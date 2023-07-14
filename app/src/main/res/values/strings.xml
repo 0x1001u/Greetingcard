@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greetingcard</string>
+    <string name="greeting_kotlin">Hello Kotlin Lover</string>
+    <string name="signature">- from U</string>
+</resources>
